@@ -1,0 +1,1 @@
+ifconfig wifi0 | grep 'inet'| awk 'NR == 1 {print $2}'

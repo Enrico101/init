@@ -1,0 +1,1 @@
+When you pass the result of "traceroute slash16.org" with the pipe tool " | ", to the "head -2" tool, you will get the name and ip that connects us to the outside world 

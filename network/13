@@ -1,0 +1,3 @@
+#command: nslookup 10.101.193.104
+
+** server can't find 104.193.101.10.in-addr.arpa: NXDOMAIN
